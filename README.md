@@ -13,5 +13,5 @@ run the code on command line :
 ```command line
 python main.py
 ```
-
+You can run this code on any python ide.
 _"project_ppt.pptx" shows how the program works_
